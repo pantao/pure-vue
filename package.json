@@ -1,0 +1,23 @@
+{
+  "name": "pure-vue",
+  "version": "0.0.0",
+  "description": "PureCSS Vue Components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantao/pure-vue.git"
+  },
+  "keywords": [
+    "PureCSS",
+    "Vue"
+  ],
+  "author": "pantao <54778899@qq.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pantao/pure-vue/issues"
+  },
+  "homepage": "https://github.com/pantao/pure-vue#readme"
+}
